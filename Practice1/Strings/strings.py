@@ -1,0 +1,3 @@
+x = "Stringssssssssssssss"
+
+print(x)
